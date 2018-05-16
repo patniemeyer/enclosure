@@ -26,7 +26,7 @@ This is my attempt at a simple, customizable press-fit printer enclosure that wo
 
 * Base or no base:  The design incorporates a 24” x 24” base, but this can be removed off if you prefer it to sit flush on a table.  (Home Depot has 3/4” MDF square boards that are exactly 24” on a side for about $5)  Sitting on a base allows the outside hinges to open the doors more freely.   If you use the base you may need to secure it since it doesn’t have much horizontal support in the front and could tend to slide off.
 
-* Simple parts: Ideally it would use just three types of parts: straight edges, corner pieces, and hinged corner pieces.  In practice the thin acrylic slumped a bit for the “roof”, which made it harder to close the doors and in an attempt to fix I adding some corner braces.  This means that there are now left and right hinges for the doors.   (Note: If you don’t care about the enclosure being air tight you don’t even need the straight pieces!)
+* Simple parts: Ideally it would use just three types of parts: straight edges, corner pieces, and hinged corner pieces.  In practice the thin acrylic slumped a bit on the “roof”, which made it harder to close the doors and in an attempt to fix this I adding the corner braces.  Unfotunately this means that there are now left and right hinges for the doors.   (Note: If you don’t care about the enclosure being air tight you don’t need the straight pieces!)
 
 ## Printing the parts 
 
@@ -35,10 +35,13 @@ The STL folder contains rendered models for a 24"x24" box with 0.118" / 3.0mm ac
 It does take a while to print the parts, but only the hinges require much detail.  I printed the straight and corner pieces at 0.2 or 0.35mm and the hinges at 0.1mm on my Prusa MK3.  The 12” straight pieces will print if turned diagonally.
 
 ## Cutting Acrylic (if you have to) 
-If you end up like me buying 48” sheets of acrylic you’ll need to cut them somehow.  I bought a $10, 200 tooth blade for my table saw and it sort of worked.  The results are a bit pitted.  Be sure to keep the plastic coating on the acrylic until you are finished cutting (or put blue painters tape on to protect if if you have exposed sheets).
+If you end up like me buying 48” sheets of acrylic you’ll need to cut them somehow.  I bought a 200 tooth table saw blade for $10 and it worked, but the results were a bit pitted.  Be sure to keep the plastic coating on the acrylic until you are finished cutting (or put blue painters tape on to protect if if you have exposed sheets).
 
 ## Ventilation 
 I ended up placing mine on a table that it slightly smaller than the 24” base, allowing me to put a fan vent hole in the bottom.  In practice a 40mm fan can suck out enough air that it doesn’t really matter where it is.  I’m planning to vent it to a window later.
+
+## Quiet!
+Almost any kind of box that seals reasonbly well will dramatically reduce the sound of your printer- especially the high frequency whine of fans.  So yes, this does work well to reduce noise.
 
 
 
