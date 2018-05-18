@@ -32,7 +32,7 @@ This is my attempt at a simple, customizable press-fit printer enclosure that wo
 
 The STL folder contains rendered models for a 24"x24" box with 0.118" / 3.0mm acrylic, but the scad files are easily adapted for any size and thickness.  If there is any interest in the project I will expand the pre-rendered selection and add instructions for options that can be customized. For now you'll just have to look at the source or ask me.
 
-It does take a while to print the parts, but only the hinges require much detail.  I printed the straight and corner pieces at 0.2 or 0.35mm and the hinges at 0.1mm on my Prusa MK3.  The 12” straight pieces will print if turned diagonally.
+It does take a while to print the parts, but only the hinges require much detail.  I printed the straight and corner pieces at 0.2 or 0.35mm and the hinges at 0.1mm on my Prusa MK3.  The 12” straight pieces will fit if turned diagonally.
 
 ## Cutting Acrylic (if you have to) 
 If you end up like me buying 48” sheets of acrylic you’ll need to cut them somehow.  I bought a 200 tooth table saw blade for $10 and it worked, but the results were a bit pitted.  Be sure to keep the plastic coating on the acrylic until you are finished cutting (or put blue painters tape on to protect if if you have exposed sheets).
